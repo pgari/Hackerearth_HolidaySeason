@@ -1,5 +1,6 @@
 # Hackerearth_HolidaySeason
 Holiday Season deep learning challenge by HackerEarth
+https://www.hackerearth.com/challenges/competitive/hackerearth-deep-learning-challenge-holidays/machine-learning/holiday-season-11-2c924626/
 
 ## TOOLS USED
 Python 3.7.9, Microsoft Lobe
